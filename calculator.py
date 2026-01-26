@@ -8,5 +8,6 @@ while True:
     if op == "+":
         print("Result:", num1 + num2)
     elif op == "-":
-        prit("Result:", num1 - num2)
-
+        print("Result:", num1 - num2)
+    elif op == "*":
+        print("Result:", num1 * num2)
